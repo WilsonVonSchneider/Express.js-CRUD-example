@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+
+# package-lock
+package-lock.json
+
+DS_Store
